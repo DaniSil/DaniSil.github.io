@@ -5,6 +5,5 @@
 -  :star: gosto de ler, ouvir louvores, comer, dormir...
 
 
-![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Frevolutionnow.com.br%2Fassista-ao-primeiro-trailer-completo-de-alladin%2Fgiphy-2%2F&psig=AOvVaw1ullkoR1jsZ0AZ9UDoiA09&ust=1644350727353000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCJjU34uy7vUCFQAAAAAdAAAAABAK)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif//)
 
-//https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif//
