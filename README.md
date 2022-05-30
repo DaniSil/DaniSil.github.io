@@ -1,6 +1,1 @@
-- :blue_heart: 19 anos
-- :sunny: Paraná
-- :bell: instagram = danyds
-- :city_sunset: atualmente estou trabalhando
-
-
+http://127.0.0.1:5500/index.html
